@@ -1,0 +1,1 @@
+# resolucaoParOuImpar_professor
